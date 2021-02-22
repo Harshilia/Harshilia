@@ -1,7 +1,7 @@
   ![Your browser doesn't support this gif :sad:](https://github.com/Harshilia/Harshilia/blob/main/intro.gif)
   
   
-  <span style="font-size:4em;">LOVE!</span>
+  Hi there!
 
 - 🔭 I’m currently working on creating my own browser!
 - 🌱 I’m currently learning competitive programming and javascript!
