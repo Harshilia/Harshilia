@@ -1,4 +1,4 @@
-  Hi there 👋
+  Hi there :smile:
 
 - 🔭 I’m currently working on creating my own browser!
 - 🌱 I’m currently learning competitive programming and javascript!
