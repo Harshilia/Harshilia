@@ -1,4 +1,6 @@
   ![Your browser doesn't support this gif :sad:](https://github.com/Harshilia/Harshilia/blob/main/intro.gif)
+  
+  
   Hi there :smile:
 
 - 🔭 I’m currently working on creating my own browser!
